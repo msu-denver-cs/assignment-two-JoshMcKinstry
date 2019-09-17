@@ -1,0 +1,5 @@
+current directory: /mnt/c/hub/school_projects/cs3710/Cars/vendor/bundle/gems/childprocess-2.0.0/ext
+/usr/bin/ruby2.5 mkrf_conf.rb
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars/vendor/bundle/gems/childprocess-2.0.0/ext
+/usr/bin/ruby2.5 -rrubygems /mnt/c/hub/school_projects/cs3710/Cars/vendor/bundle/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/mnt/c/hub/school_projects/cs3710/Cars/vendor/bundle/extensions/x86_64-linux/2.5.0/childprocess-2.0.0 RUBYLIBDIR\=/mnt/c/hub/school_projects/cs3710/Cars/vendor/bundle/extensions/x86_64-linux/2.5.0/childprocess-2.0.0
