@@ -1,0 +1,15 @@
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+/home/jmckins/.rbenv/versions/2.5.3/bin/ruby -I /home/jmckins/.rbenv/versions/2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191021-16680-upsvnh.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20191021-16680-t6vi1k

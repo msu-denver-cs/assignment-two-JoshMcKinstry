@@ -1,0 +1,19 @@
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/home/jmckins/.rbenv/versions/2.5.3/bin/ruby -I /home/jmckins/.rbenv/versions/2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191021-16680-zc4wxw.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20191021-16680-1rbzw8g/byebug

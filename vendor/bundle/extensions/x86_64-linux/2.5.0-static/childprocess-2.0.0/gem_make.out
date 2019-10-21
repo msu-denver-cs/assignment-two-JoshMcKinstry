@@ -1,0 +1,7 @@
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/childprocess-2.0.0/ext
+/home/jmckins/.rbenv/versions/2.5.3/bin/ruby mkrf_conf.rb
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/childprocess-2.0.0/ext
+/home/jmckins/.rbenv/versions/2.5.3/bin/ruby -rrubygems /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/extensions/x86_64-linux/2.5.0-static/childprocess-2.0.0 RUBYLIBDIR\=/mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/extensions/x86_64-linux/2.5.0-static/childprocess-2.0.0
+Ignoring ffi-1.11.1 because its extensions are not built. Try: gem pristine ffi --version 1.11.1
+Ignoring puma-3.12.1 because its extensions are not built. Try: gem pristine puma --version 3.12.1
