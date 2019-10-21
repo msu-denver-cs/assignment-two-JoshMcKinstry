@@ -1,0 +1,13 @@
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/json-2.2.0/ext/json
+/home/jmckins/.rbenv/versions/2.5.3/bin/ruby -I /home/jmckins/.rbenv/versions/2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20191021-17841-1o1o19g.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /mnt/c/hub/school_projects/cs3710/Cars-Server/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
