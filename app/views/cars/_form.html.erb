@@ -26,6 +26,11 @@
     <%= form.number_field :vin_number %>
   </div>
 
+  <div class="field">
+    <%= form.label :car_part_id %><br>
+    <%= form.collection_check_boxes(:car_part_ids, @car_parts, :id, :name) %>
+  </div>
+
   <div class="actions">
     <%= form.submit %>
   </div>
